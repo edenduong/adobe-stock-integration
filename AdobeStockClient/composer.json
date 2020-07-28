@@ -20,5 +20,6 @@
         "psr-4": {
             "Magento\\AdobeStockClient\\": ""
         }
-    }
+    },
+    "version": "1.0.1"
 }
